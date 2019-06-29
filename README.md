@@ -5,3 +5,4 @@ yuvi
 darshan
 yash
 com
+duo
